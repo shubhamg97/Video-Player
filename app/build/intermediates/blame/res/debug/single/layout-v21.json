@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Deepak\\Desktop\\Internship\\Video Player\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Deepak\\.android\\build-cache\\317f83ce9374cf71b270ed38020b38fac5d33bc4\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Deepak\\Desktop\\Internship\\Video Player\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Deepak\\.android\\build-cache\\317f83ce9374cf71b270ed38020b38fac5d33bc4\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Deepak\\Desktop\\Internship\\Video Player\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Deepak\\.android\\build-cache\\317f83ce9374cf71b270ed38020b38fac5d33bc4\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Deepak\\Desktop\\Internship\\Video Player\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Deepak\\.android\\build-cache\\317f83ce9374cf71b270ed38020b38fac5d33bc4\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
