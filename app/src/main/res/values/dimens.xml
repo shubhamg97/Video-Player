@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_5dp">5dp</dimen>
+    <dimen name="padding_10dp">10dp</dimen>
+    <dimen name="textSize_15sp">15sp</dimen>
+    <dimen name="textSize_20sp">20sp</dimen>
+    <dimen name="gridView_120dp">120dp</dimen>
+    <dimen name="videoView_300dp">300dp</dimen>
+    <dimen name="marginTop_10dp">10dp</dimen>
+    <dimen name="marginBottom_10dp">10dp</dimen>
+</resources>

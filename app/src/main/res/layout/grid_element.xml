@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Shubham Goyal on 5/30/17 11:06 AM
+  ~ Copyright (c) 2017. All rights reserved.
+  ~
+  ~ File last modified on 7/11/17 11:30 AM
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/paletteColorName"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:clickable="false"
+        android:gravity="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="@dimen/textSize_15sp" />
+
+    <ImageView
+        android:id="@+id/paletteColor"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:background="@null" />
+
+</LinearLayout>

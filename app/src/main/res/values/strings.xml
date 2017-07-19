@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Video Player</string>
+    <string name="hint1">"Enter the file name here"</string>
+    <string name="text1">ENTER</string>
+    <string name="text2">Dominant Colour</string>
+    <string name="copyright">Copyright © 2017</string>
+</resources>
