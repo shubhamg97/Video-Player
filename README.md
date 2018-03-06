@@ -1,6 +1,6 @@
 # Android Colour Extraction and Video Player Application
 
-During my internship in the summer of 2017, my job was to build an Android app that could:
+During my internship in the summer of 2017, I built an Android app that could:
   - Extract colour from the frame of a playing video
   - Use Philips HUE lighting API to create ambient lighting
   - Stream the video to a media server
